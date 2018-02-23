@@ -1,2 +1,3 @@
 # Algorithms
 Algos
+Algorithmic Paradigms
